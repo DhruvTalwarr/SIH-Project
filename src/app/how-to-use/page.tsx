@@ -1,4 +1,4 @@
-
+//how to use page
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Lightbulb, HelpCircle, HardDriveUpload, ScanLine, Calculator, ClipboardCheck, UserPlus, LogIn } from "lucide-react";
 import Link from "next/link";
